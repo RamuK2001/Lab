@@ -1,0 +1,369 @@
+patient id,symptom,department ,room ID,priority
+100111,Chest pain,3003,3,1
+100112,nausea,3003,1,2
+100113,breathing problem,3003,1,3
+100114,dizziness,3003,2,2
+100115,brittle,3003,1,3
+100116,Leg numbness,3003,1,2
+100117,muscluar pain,3003,4,1
+100118,dysfunction,3003,5,3
+100119,fever,3003,1,2
+100120,painless nodules ,3003,1,2
+100121,rheumatic,3003,2,1
+100122,lattice-like rash,3003,1,2
+100123,joint pain,3003,4,2
+100124,abdomen,3003,3,1
+100125,inflammation,3003,1,1
+100126,heart murmur,3003,5,1
+100127,Head ache,3003,2,3
+100128,vomiting,3003,3,3
+100129,swollen joints,3003,4,2
+100130,Chest pain,3003,5,1
+100131,nausea,3003,1,1
+100132,breathing problem,3003,2,3
+100133,dizziness,3003,3,2
+100134,brittle,3003,4,1
+100135,Leg numbness,3003,5,1
+100136,muscluar pain,3003,1,2
+100137,dysfunction,3003,2,2
+100138,fever,3003,3,3
+100139,painless nodules ,3003,4,2
+100140,rheumatic,3003,5,1
+100141,lattice-like rash,3003,1,2
+100142,joint pain,3003,2,1
+100143,abdomen,3003,3,2
+100144,inflammation,3003,4,3
+100145,heart murmur,3003,5,4
+100146,Head ache,3003,1,3
+100147,vomiting,3003,2,3
+100148,swollen joints,3003,3,2
+100149,Chest pain,3003,4,1
+100150,nausea,3003,5,3
+100151,breathing problem,3003,1,1
+100152,dizziness,3003,2,2
+100153,brittle,3003,3,3
+100154,Leg numbness,3003,4,2
+100155,muscluar pain,3003,5,1
+100156,dysfunction,3003,1,3
+100157,fever,3003,2,2
+100158,painless nodules ,3003,3,1
+100159,rheumatic,3003,4,1
+100160,lattice-like rash,3003,5,2
+100161,joint pain,3003,1,3
+100162,abdomen,3003,2,1
+100163,inflammation,3003,3,2
+100164,heart murmur,3003,4,3
+100165,Head ache,3003,5,1
+100166,vomiting,3003,1,2
+100167,swollen joints,3003,2,3
+100168,Chest pain,3003,3,1
+100169,nausea,3003,4,2
+100170,breathing problem,3003,5,3
+100171,dizziness,3003,1,1
+100172,brittle,3003,2,2
+100173,Leg numbness,3003,3,3
+100174,muscluar pain,3003,4,2
+100175,dysfunction,3003,5,3
+100176,fever,3003,1,2
+100177,painless nodules ,3003,2,1
+100178,rheumatic,3003,3,2
+100179,lattice-like rash,3003,4,3
+100180,joint pain,3003,5,3
+100181,abdomen,3003,1,3
+100182,inflammation,3003,2,2
+100183,heart murmur,3003,3,1
+100184,Head ache,3003,4,3
+100185,vomiting,3003,5,2
+100186,swollen joints,3003,1,2
+100187,Chest pain,3003,2,1
+100188,nausea,3003,3,2
+100189,breathing problem,3003,4,2
+100190,dizziness,3003,5,1
+100191,brittle,3003,1,1
+100192,Leg numbness,3003,2,1
+100193,muscluar pain,3003,3,3
+100194,dysfunction,3003,4,3
+100195,fever,3003,5,2
+100196,painless nodules ,3003,1,1
+100197,rheumatic,3003,2,1
+100198,lattice-like rash,3003,3,3
+100199,joint pain,3003,4,2
+100200,abdomen,3003,5,1
+100201,inflammation,3003,1,1
+100202,heart murmur,3003,2,2
+100203,Head ache,3003,3,2
+100204,vomiting,3003,4,3
+100205,swollen joints,3003,5,2
+100206,Chest pain,3003,1,1
+100207,nausea,3003,2,2
+100208,breathing problem,3003,3,1
+100209,dizziness,3003,4,2
+100210,brittle,3003,5,3
+100211,Leg numbness,3003,1,4
+100212,muscluar pain,3003,2,3
+100213,dysfunction,3003,3,3
+100214,fever,3003,4,2
+100215,painless nodules ,3003,5,1
+100216,rheumatic,3003,1,3
+100217,lattice-like rash,3003,2,1
+100218,joint pain,3003,3,2
+100219,abdomen,3003,4,3
+100220,inflammation,3003,5,2
+100221,heart murmur,3003,1,1
+100222,Head ache,3003,2,3
+100223,vomiting,3003,3,2
+100224,swollen joints,3003,4,1
+100225,Refractive Errors,3004,5,1
+100226,Cataract,3004,1,2
+100227,Diabetic Retinopathy,3004,2,3
+100228,Glaucoma,3004,3,1
+100229,Amblyopiastrabismus,3004,4,2
+100230,vision loss,3004,5,3
+100231,detached retina,3004,1,1
+100232,cataracts,3004,2,2
+100233,clouded vision,3004,3,3
+100234,blurred vision,3004,4,1
+100235,dim vision,3004,5,2
+100236,glare,3004,1,3
+100237,Fading,3004,2,1
+100238,eye pain,3004,3,2
+100239,eye redness,3004,4,3
+100240,colored,3004,5,2
+100241,Head ache,3004,1,3
+100242,cornea issues,3004,2,2
+100243,clouded vision,3004,3,3
+100244,blurred vision,3004,4,2
+100245,dim vision,3004,5,2
+100246,glare,3004,1,2
+100247,Fading,3004,2,1
+100248,eye pain,3004,3,1
+100249,eye redness,3004,4,2
+100250,colored,3004,5,2
+100251,Head ache,3004,1,3
+100252,cornea issues,3004,2,2
+100253,clouded vision,3004,3,1
+100254,blurred vision,3004,4,2
+100255,dim vision,3004,5,3
+100256,glare,3004,1,2
+100257,Fading,3004,2,3
+100258,eye pain,3004,3,2
+100259,eye redness,3004,4,1
+100260,colored,3004,5,2
+100261,Head ache,3004,1,2
+100262,cornea issues,3004,2,3
+100263,clouded vision,3004,3,2
+100264,blurred vision,3004,4,1
+100265,dim vision,3004,5,2
+100266,glare,3004,1,3
+100267,Fading,3004,2,2
+100268,eye pain,3004,3,3
+100269,eye redness,3004,4,2
+100270,colored,3004,5,1
+100271,Head ache,3004,1,2
+100272,cornea issues,3004,2,2
+100273,cornea issues,3004,3,3
+100274,clouded vision,3004,4,2
+100275,blurred vision,3004,5,1
+100276,dim vision,3004,1,2
+100277,Fading,3004,2,3
+100278,eye pain,3004,3,2
+100279,eye redness,3004,4,3
+100280,Fading,3004,5,2
+100281,eye pain,3004,1,1
+100282,eye redness,3004,2,2
+100283,arthritis,3005,3,2
+100284,bursitis,3005,4,3
+100285,tumors,3005,5,2
+100286,osteoporosis,3005,1,1
+100287,knee pain,3005,2,2
+100288,Hamstring injuries,3005,3,3
+100289,Hip fracture,3005,4,2
+100290,plantar fasciitis,3005,5,3
+100291,scoliosis,3005,1,2
+100292,trauma,3005,2,1
+100293,spine medicine,3005,3,2
+100294,joint replacement,3005,4,2
+100295,ankle pain,3005,5,3
+100296,oncology,3005,1,2
+100297,pediatric,3005,2,1
+100298,muscluar pain,3005,3,2
+100299,bone crack,3005,4,3
+100300,spinal cord injurary,3005,5,1
+100301,Muscle weakness,3002,1,1
+100302,chest problem,3002,2,2
+100303,arms problem,3002,3,3
+100304,legs problem,3002,4,1
+100305,bowel problem,3002,5,2
+100306,bladder problem,3002,1,3
+100307,Breathing problem,3002,2,1
+100308,memory problem,3002,3,2
+100309,confused,3002,4,3
+100310,Muscle problem,3002,5,1
+100311,Muscle problem,3002,1,2
+100312,Muscle problems,3002,2,3
+100313,speech problem,3002,3,1
+100314,motor tasks problem,3002,4,2
+100315,walking problems,3002,5,3
+100316,speech problem,3002,1,1
+100317,nystagmus,3002,2,2
+100318,Difficulty swallowing,3002,3,1
+100319,Muscle weakness,3002,5,3
+100320,chest problem,3002,4,2
+100321,arms problem,3002,3,1
+100322,legs problem,3002,2,3
+100323,bowel problem,3002,1,2
+100324,bladder problem,3002,5,1
+100325,Breathing problem,3002,4,3
+100326,memory problem,3002,3,2
+100327,confused,3002,2,1
+100328,Muscle problem,3002,1,3
+100329,Muscle problem,3002,5,2
+100330,Muscle problems,3002,4,1
+100331,speech problem,3002,3,3
+100332,motor tasks problem,3002,2,2
+100333,walking problems,3002,1,1
+100334,speech problem,3002,5,3
+100335,nystagmus,3002,4,2
+100336,Difficulty swallowing,3002,3,1
+100337,Muscle weakness,3002,3,2
+100338,chest problem,3002,2,1
+100339,arms problem,3002,4,3
+100340,legs problem,3002,1,2
+100341,bowel problem,3002,5,1
+100342,bladder problem,3002,3,3
+100343,Breathing problem,3002,2,2
+100344,memory problem,3002,4,1
+100345,confused,3002,1,3
+100346,Muscle problem,3002,5,2
+100347,Muscle problem,3002,3,1
+100348,Muscle problems,3002,2,3
+100349,speech problem,3002,4,2
+100350,motor tasks problem,3002,1,1
+100351,walking problems,3002,5,3
+100352,speech problem,3002,3,2
+100353,nystagmus,3002,2,1
+100354,Difficulty swallowing,3002,4,3
+100355,Abnormal Vaginal,3001,1,1
+100356,Pelvic Pain,3001,2,3
+100357,Back Pain,3001,3,2
+100358,Bleeding,3001,4,3
+100359,Bloating,3001,5,2
+100360,Uterine Fibroids,3001,4,2
+100361,Cervical Dysplasia,3001,3,3
+100362,Vaginal Discharge,3001,2,1
+100363,Itching,3001,1,1
+100364,Burning,3001,1,1
+100365,Swelling,3001,2,3
+100366,Redness,3001,3,2
+100367,Soreness,3001,4,3
+100368,Adenomyosis,3001,5,2
+100369,Adnexal Tumors,3001,4,2
+100370,Bacterial Vaginosis,3001,3,3
+100371,Endometriosis,3001,2,1
+100372,Ovarain cancer,3001,1,1
+100373,ectopic pregnancies,3001,1,3
+100374,adnexal torsion,3001,2,3
+100375,tuboovarain abscess,3001,3,2
+100376,Difficulty eating,3001,4,1
+100377,yeast infections,3001,5,3
+100378,obesity,3001,4,2
+100379,periodic issues,3001,3,1
+100380,tenderness,3001,2,3
+100381,fallopain tubes,3001,1,2
+100382,vulva,3001,1,3
+100383,sexual violence,3001,2,1
+100384,Dysmenorrhea,3001,3,1
+100385,bladder cancer,3001,4,3
+100386,gonorrhea,3001,5,3
+100387,Cervical Dysplasia,3001,4,2
+100388,Vaginal Discharge,3001,3,1
+100389,Itching,3001,2,3
+100390,Burning,3001,1,2
+100391,Swelling,3001,1,1
+100392,Redness,3001,2,3
+100393,Soreness,3001,3,2
+100394,Adenomyosis,3001,4,1
+100395,Adnexal Tumors,3001,5,1
+100396,Bacterial Vaginosis,3001,4,3
+100397,Endometriosis,3001,3,3
+100398,Ovarain cancer,3001,2,2
+100399,Back Pain,3001,1,1
+100400,Bleeding,3001,1,3
+100401,Bloating,3001,2,2
+100402,Uterine Fibroids,3001,3,1
+100403,Cervical Dysplasia,3001,4,3
+100404,Vaginal Discharge,3001,5,2
+100405,Itching,3001,4,3
+100406,Burning,3001,3,3
+100407,Swelling,3001,2,2
+100408,Redness,3001,1,1
+100409,Soreness,3001,1,2
+100410,Adenomyosis,3001,2,1
+100411,Adnexal Tumors,3001,3,1
+100412,Bacterial Vaginosis,3001,4,2
+100413,Endometriosis,3001,5,3
+100414,Ovarain cancer,3001,4,2
+100415,ectopic pregnancies,3001,3,1
+100416,adnexal torsion,3001,2,1
+100417,tuboovarain abscess,3001,1,2
+100418,Difficulty eating,3001,1,2
+100419,yeast infections,3001,2,3
+100420,obesity,3001,3,2
+100421,periodic issues,3001,4,1
+100422,tenderness,3001,5,1
+100423,fallopain tubes,3001,4,2
+100424,vulva,3001,3,3
+100425,sexual violence,3001,2,1
+100426,Dysmenorrhea,3001,1,2
+100427,bladder cancer,3001,1,3
+100428,gonorrhea,3001,2,1
+100429,Symptoms,3001,3,2
+100430,Abnormal Vaginal,3001,4,3
+100431,Pelvic Pain,3001,5,1
+100432,Back Pain,3001,4,2
+100433,Bleeding,3001,3,3
+100434,Bloating,3001,2,1
+100435,Uterine Fibroids,3001,1,2
+100436,Cervical Dysplasia,3001,1,3
+100437,Vaginal Discharge,3001,2,1
+100438,Itching,3001,3,2
+100439,Burning,3001,4,3
+100440,Swelling,3001,5,1
+100441,Redness,3001,4,2
+100442,Soreness,3001,3,3
+100443,Adenomyosis,3001,2,1
+100444,Adnexal Tumors,3001,1,2
+100445,urinary incontience,3001,1,3
+100446,cystocele,3001,2,1
+100447,breast cancer,3001,3,2
+100448,painful periods,3001,4,3
+100449,pcod,3001,5,1
+100450,obstetrics,3001,4,2
+100451,anatomy,3001,3,3
+100452,Endometriosis,3001,2,1
+100453,cervicities,3001,1,2
+100454,conceiving,3001,1,3
+100455,pcos,3001,2,1
+100456,Adenomyosis,3001,3,2
+100457,amniotic band,3001,4,3
+100458,bladder outlet,3001,5,1
+100459,menstrual disorders,3001,4,2
+100460,reproductive tract,3001,3,3
+100461,burning sensation,3001,2,1
+100462,cervial,3001,1,2
+100463,hpv,3001,1,3
+100464,obstetrics,3001,2,1
+100465,anatomy,3001,3,3
+100466,Endometriosis,3001,4,1
+100467,cervicities,3001,5,1
+100468,conceiving,3001,4,3
+100469,pcos,3001,3,3
+100470,Adenomyosis,3001,2,2
+100471,amniotic band,3001,1,1
+100472,bladder outlet,3001,1,3
+100473,menstrual disorders,3001,2,2
+100474,reproductive tract,3001,3,1
+100475,burning sensation,3001,4,3
+100476,cervial,3001,5,2
+100477,hpv,3001,4,1
+100478,stress,3001,3,1
